@@ -1,3 +1,9 @@
+## ⚠️ Disclaimer
+```text
+Your warranty is now void. I am not responsible for bricked devices, dead SD cards, physical speaker hardware failure, or you getting fired because your alarm app failed. Please do your own research regarding hardware digital/analog limits before flashing this systemless configuration layout! You choose to execute these modifications entirely at your own risk.
+```
+
+
 # Redmi-6-Pro-Sakura-Audio-Boost
 Advanced Magisk Module to permanently boost hardware audio/speaker limits on Redmi 6 Pro (sakura) running AOSP/Custom ROMs
 # 🔊 Redmi 6 Pro (sakura) Audio Boost Magisk Module
