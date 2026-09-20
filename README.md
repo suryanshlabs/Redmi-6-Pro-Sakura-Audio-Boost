@@ -9,11 +9,22 @@ A native, systemless hardware gain unlimiter designed specifically for the **Xia
 * **Android Versions:** Android 11 (R), Android 12 (S), Android 13 (T), Android 14 (U), and Android 15 (V).
 * **Tested Custom ROMs:** Evolution X, crDroid, LineageOS, PixelExperience, and PixelOS.
 
-## ✨ Features
-* **Ultimate Loudness:** Boosts core digital configuration values up to the absolute hardware mask limit (`124`).
-* **Clear Movie/Anime Dialogue:** Tweaks the Qualcomm WCD hardware audio routing layers so lower spoken frequencies are audible from 12+ feet away.
-* **Anti-Distortion Tech:** Automatically injects `COMP1` and `DRC` hardware compression switches to prevent physical speaker clipping or rattling at high volumes.
-* **Systemless Execution:** 100% safe. Modifies files via Magisk layer mounting without touching your physical `/vendor` partition.
+✨ Features
+
+- 🔊 **Loudness & Gain Tuning:** Adjusts device-specific Qualcomm audio mixer
+  parameters for increased speaker output.
+
+- 🎬 **Dialogue Clarity:** Tuned for improved speech intelligibility during
+  movies, anime and other video content.
+
+- 🛡️ **DRC / Compression:** Enables available hardware compression controls
+  intended to reduce clipping at higher gain levels.
+
+- 📞 **Earpiece Tuning:** The handset/receiver audio path is also configured,
+  so call audio may be affected.
+
+- 🧩 **Systemless:** Applied through Magisk's systemless overlay without
+  directly modifying the physical `/vendor` partition.
 
 ## 🚀 Installation Guide
 1. Go to the **Releases** section of this repository and download `Sakura_Audio_Boost_Final.zip`.
